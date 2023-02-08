@@ -2,5 +2,27 @@
   "dependencies": {
     "comander": "^0.0.1-security",
     "commander": "^10.0.0"
-  }
+  },
+  "name": "@hexlet/code",
+  "type": "module",
+  "description": "[![Actions Status](https://github.com/insobl/frontend-project-46/workflows/hexlet-check/badge.svg)](https://github.com/insobl/frontend-project-46/actions)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "frontend-project-46": "bin/gendiff.js"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/insobl/frontend-project-46.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/insobl/frontend-project-46/issues"
+  },
+  "homepage": "https://github.com/insobl/frontend-project-46#readme"
 }
