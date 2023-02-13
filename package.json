@@ -9,7 +9,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "bin": {
-    "frontend-project-46": "bin/gendiff.js"
+    "gendiff": "bin/gendiff.js"
   },
   "devDependencies": {},
   "scripts": {
